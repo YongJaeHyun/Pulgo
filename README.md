@@ -5,7 +5,7 @@
 ![readme_home](https://github.com/user-attachments/assets/92fbec2b-3320-4c58-a343-6231e36f9050)
 
 - 프로젝트 기간 : 2025-01-13 ~ 2025-02-04
-- 배포 URL : <a href="https://pullgo.netlify.app/">https://pullgo.netlify.app/</a>
+- 배포 URL : <a href="https://pulgo.netlify.app/">https://pulgo.netlify.app/</a>
 
 <!-- 간단한 PR task에 대한 설명 -->
 
